@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29408133913",
+    "project_id": "symptomdata-86253",
+    "storage_bucket": "symptomdata-86253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29408133913:android:df269d378c5d2fabe67b88",
+        "android_client_info": {
+          "package_name": "com.example.monitorheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29408133913-mj40fgqmloichvlvij88vv2nsskfbhj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3iqSDT7ri-V7i3XkFZZPgxJKZmzsKhcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29408133913-mj40fgqmloichvlvij88vv2nsskfbhj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
